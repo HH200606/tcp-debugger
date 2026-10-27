@@ -8,7 +8,9 @@
 
 ### 方式一：下载可执行文件（推荐，免编译）
 
-到 [Releases](../../releases) 页面下载最新的 `TcpDebugger.exe`，双击运行。
+直接下载 **[TcpDebugger.exe](https://github.com/HH200606/tcp-debugger/releases/download/v1.0/TcpDebugger.exe)**，双击运行。
+
+也可以到 [Releases](https://github.com/HH200606/tcp-debugger/releases) 页面查看全部版本。
 
 前提：机器上装有 [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/6.0)（Windows 10/11 通常已自带）。
 
